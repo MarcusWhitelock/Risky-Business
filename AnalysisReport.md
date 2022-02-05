@@ -30,7 +30,8 @@
 
 ## 1. Which model had the best balanced accuracy score?
 
-   The Smote OverSampling and the Smoteenn CombinationSampling had a combined top score of 0.9946680739911509.<br />
+   The Smote OverSampling and the Smoteenn CombinationSampling had a combined top score of 0.9946680739911509<br />
+   
    - **The Other scores include:**<br />
    - Simple Logistic Regression 0.9892813049736127
    - Random  OverSampling 0.9946414201183431
@@ -39,16 +40,18 @@
 ## 2. Which model had the best recall score?
 
    The ClusterCentroids UnderSampling has the best recall score with 0.99447998<br />
-    - **The Other scores include:**<br />
-    - Simple Logistic Regression 0.99422204
-    - Random  OverSampling 0.99411886
-    - Smote OverSampling 0.99417045
-    - Smoteenn CombinationSampling 0.99417045
+   
+   - **The Other scores include:**<br />
+   - Simple Logistic Regression 0.99422204
+   - Random  OverSampling 0.99411886
+   - Smote OverSampling 0.99417045
+   - Smoteenn CombinationSampling 0.99417045
     
 
 ## 3. Which model had the best geometric mean score?
 
    The Smote OverSampling and the Smoteenn CombinationSampling had a combined top score of 0.99466793 <br />
+   
    - **The Other scores include:**<br />
    - Simple Logistic Regression 0.98926721
    - Random  OverSampling 0.99464126
