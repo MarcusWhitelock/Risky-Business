@@ -8,7 +8,8 @@
 
 ## 1. Which model had the best balanced accuracy score?
 
-    The EasyEnsembleClassifier had the best balanced accuracy score with 0.9254565671948463 compared to BalancedRandomForest with 0.7871246640962729
+    The EasyEnsembleClassifier had the best balanced accuracy score with 0.9254565671948463 compared to 
+    BalancedRandomForest with 0.7871246640962729
 
 ## 2. Which model had the best recall score?
 
@@ -37,7 +38,7 @@
 
 ## 2. Which model had the best recall score?
 
-    The ClusterCentroids UnderSampling has the best recall score with 0.99447998
+   The ClusterCentroids UnderSampling has the best recall score with 0.99447998
      - **The Other scores include:**
     - Simple Logistic Regression 0.99422204
     - Random  OverSampling 0.99411886
@@ -47,7 +48,7 @@
 
 ## 3. Which model had the best geometric mean score?
 
-    The Smote OverSampling and the Smoteenn CombinationSampling had a combined top score of 0.99466793
+   The Smote OverSampling and the Smoteenn CombinationSampling had a combined top score of 0.99466793
      - **The Other scores include:**
    - Simple Logistic Regression 0.98926721
    - Random  OverSampling 0.99464126
